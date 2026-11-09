@@ -1,0 +1,6 @@
+{
+  "name": "Muskaan Dental Clinic - Dr. Ankit Mahendru",
+  "description": "Premier dental care clinic in Bhatapara, Chhattisgarh led by Dr. Ankit Mahendru. Advanced orthodontic braces, painless root canal, dental implants, teeth whitening, and cosmetic smile makeovers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
